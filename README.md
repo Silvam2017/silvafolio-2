@@ -8,10 +8,10 @@
 [Live Website](https://silvam2017.github.io/silvafolio-2/)
 
 ## Table of Contents
-* [Project Description](#Project-Description:)   
+* [Project-Description](#Project-Description:)   
 * [Installation](#Installation)
 * [Contributing](#Contributing)   
-* [GitHub Repository Link](#GitHub-Repository-Link:) 
+* [GitHub-Repository-Link](#GitHub-Repository-Link:) 
 
 ## Project-Description: 
 * This website is my ever-evolving web-development portfolio.
