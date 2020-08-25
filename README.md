@@ -8,7 +8,7 @@
 [Live Website](https://silvam2017.github.io/silvafolio-2/)
 
 ## Table of Contents
-* [Description](#Description:)   
+* [Description](#Description)   
 * [Installation](#Installation)
 * [Contributing](#Contributing)   
 * [GitHub](#GitHub) 
