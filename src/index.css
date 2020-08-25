@@ -326,3 +326,11 @@ a {
   justify-content: flex-end;
   align-items: flex-end;
 }
+
+.about-text {
+  color: var(--hero-subtitle-color);
+}
+
+.header-text {
+  color: var(--secondary);
+}
