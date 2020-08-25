@@ -21,7 +21,7 @@
 
 ## Contributing 
 * Please contact me via email.
-* If your issues, pull requests, or other GitHub problems are not being resolves, please reach out to me at msilva@aggienetwork.com. 
+* If you have issues, pull requests, or have other GitHub problems that are not being resolved, please reach out to me at msilva@aggienetwork.com. 
 
 ## GitHub
 * https://github.com/Silvam2017/silvafolio-2
