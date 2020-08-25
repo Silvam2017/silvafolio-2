@@ -8,12 +8,12 @@
 [Live Website](https://silvam2017.github.io/silvafolio-2/)
 
 ## Table of Contents
-* [Project-Description](#Project-Description:)   
+* [Description](#Description:)   
 * [Installation](#Installation)
 * [Contributing](#Contributing)   
-* [GitHub-Repository-Link](#GitHub-Repository-Link:) 
+* [GitHub](#GitHub) 
 
-## Project-Description: 
+## Description: 
 * This website is my ever-evolving web-development portfolio.
 
 ## Installation 
@@ -23,7 +23,7 @@
 * Please contact me via email.
 * If your issues, pull requests, or other GitHub problems are not being resolves, please reach out to me at msilva@aggienetwork.com. 
 
-## GitHub-Repository-Link:
+## GitHub
 * https://github.com/Silvam2017/silvafolio-2
 
 ## Questions?
