@@ -4,7 +4,7 @@
 
 ![NPM](https://img.shields.io/npm/l/inquirer?style=plastic)
 
-# Project Name:  Trust-Funder
+# Project Name:  Web Development Portfolio
 [Live Website](https://silvam2017.github.io/silvafolio-2/)
 
 ## Table of Contents
