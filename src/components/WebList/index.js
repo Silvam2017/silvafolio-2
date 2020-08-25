@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const WebList=  ({ category }) => {
 
-    const [currentSite, setCurrentSite ] = useState();
+    //const [currentSite, setCurrentSite ] = useState();
 
     const [sites] = useState([
         {
@@ -25,7 +25,6 @@ const WebList=  ({ category }) => {
 
         },
     ]);
-
     const currentSites = sites.filter((site) => site.category === category);
 
     return(
@@ -36,6 +35,7 @@ const WebList=  ({ category }) => {
             target="_blank" 
             rel="noopener noreferrer"
             href={image.link}
+            key={image.name}
             >
             <p>
                 {image.name}
@@ -44,7 +44,6 @@ const WebList=  ({ category }) => {
             src={require(`../../assets/small/${category}/${i}.png`)}
             alt={image.name}
             className="img-thumbnail mx-1"
-            key={image.name}
           />
           <p>{image.description}
               </p>

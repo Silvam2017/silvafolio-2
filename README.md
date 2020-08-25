@@ -27,7 +27,7 @@
 * https://github.com/Silvam2017/silvafolio-2
 
 ## Questions?
-### Direct them to (github.com/Silvam2017)
+### Direct them to github.com/Silvam2017
 
 
 
