@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/silvafolio-2/static/css/main.61713271.chunk.css",
-    "main.js": "/silvafolio-2/static/js/main.71af211d.chunk.js",
-    "main.js.map": "/silvafolio-2/static/js/main.71af211d.chunk.js.map",
+    "main.css": "/silvafolio-2/static/css/main.29edfeec.chunk.css",
+    "main.js": "/silvafolio-2/static/js/main.3784070e.chunk.js",
+    "main.js.map": "/silvafolio-2/static/js/main.3784070e.chunk.js.map",
     "runtime-main.js": "/silvafolio-2/static/js/runtime-main.387ca50f.js",
     "runtime-main.js.map": "/silvafolio-2/static/js/runtime-main.387ca50f.js.map",
-    "static/js/2.37a0140e.chunk.js": "/silvafolio-2/static/js/2.37a0140e.chunk.js",
-    "static/js/2.37a0140e.chunk.js.map": "/silvafolio-2/static/js/2.37a0140e.chunk.js.map",
+    "static/js/2.dee667ee.chunk.js": "/silvafolio-2/static/js/2.dee667ee.chunk.js",
+    "static/js/2.dee667ee.chunk.js.map": "/silvafolio-2/static/js/2.dee667ee.chunk.js.map",
     "index.html": "/silvafolio-2/index.html",
-    "precache-manifest.0a9c41b3292f82ae4165feb1b57783c4.js": "/silvafolio-2/precache-manifest.0a9c41b3292f82ae4165feb1b57783c4.js",
+    "precache-manifest.e1bf5a78b7980e8a5efba897b7d8f8f4.js": "/silvafolio-2/precache-manifest.e1bf5a78b7980e8a5efba897b7d8f8f4.js",
     "service-worker.js": "/silvafolio-2/service-worker.js",
-    "static/css/main.61713271.chunk.css.map": "/silvafolio-2/static/css/main.61713271.chunk.css.map",
-    "static/js/2.37a0140e.chunk.js.LICENSE.txt": "/silvafolio-2/static/js/2.37a0140e.chunk.js.LICENSE.txt",
+    "static/css/main.29edfeec.chunk.css.map": "/silvafolio-2/static/css/main.29edfeec.chunk.css.map",
+    "static/js/2.dee667ee.chunk.js.LICENSE.txt": "/silvafolio-2/static/js/2.dee667ee.chunk.js.LICENSE.txt",
     "static/media/0.png": "/silvafolio-2/static/media/0.2d98ce29.png",
-    "static/media/1.png": "/silvafolio-2/static/media/1.7d185630.png",
+    "static/media/1.png": "/silvafolio-2/static/media/1.c186924c.png",
     "static/media/2.png": "/silvafolio-2/static/media/2.aeec1ee4.png",
-    "static/media/michael.png": "/silvafolio-2/static/media/michael.41d5a292.png",
     "static/media/index.css": "/silvafolio-2/static/media/ocean.cc1868a0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.387ca50f.js",
-    "static/js/2.37a0140e.chunk.js",
-    "static/css/main.61713271.chunk.css",
-    "static/js/main.71af211d.chunk.js"
+    "static/js/2.dee667ee.chunk.js",
+    "static/css/main.29edfeec.chunk.css",
+    "static/js/main.3784070e.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d53191b0b62accae3268038bb69b541",
+    "revision": "6ebb0ece104ea9626aa45e6369e78350",
     "url": "/silvafolio-2/index.html"
   },
   {
-    "revision": "46583ff45341bb90f989",
-    "url": "/silvafolio-2/static/css/main.61713271.chunk.css"
+    "revision": "353928b7e7470fdfb1d9",
+    "url": "/silvafolio-2/static/css/main.29edfeec.chunk.css"
   },
   {
-    "revision": "d75374248eb169dc5386",
-    "url": "/silvafolio-2/static/js/2.37a0140e.chunk.js"
+    "revision": "dc6052d1df5a2a16bda7",
+    "url": "/silvafolio-2/static/js/2.dee667ee.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/silvafolio-2/static/js/2.37a0140e.chunk.js.LICENSE.txt"
+    "url": "/silvafolio-2/static/js/2.dee667ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46583ff45341bb90f989",
-    "url": "/silvafolio-2/static/js/main.71af211d.chunk.js"
+    "revision": "353928b7e7470fdfb1d9",
+    "url": "/silvafolio-2/static/js/main.3784070e.chunk.js"
   },
   {
     "revision": "b4726d16b83e18390aec",
@@ -28,16 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/silvafolio-2/static/media/0.2d98ce29.png"
   },
   {
-    "revision": "7d185630c263fc70153d252d716ec518",
-    "url": "/silvafolio-2/static/media/1.7d185630.png"
+    "revision": "c186924cccc6a61be205ebf857820d2e",
+    "url": "/silvafolio-2/static/media/1.c186924c.png"
   },
   {
     "revision": "aeec1ee484e6e2c87275fe63965f2e11",
     "url": "/silvafolio-2/static/media/2.aeec1ee4.png"
-  },
-  {
-    "revision": "41d5a2921e3dd3a465b739b8c117962e",
-    "url": "/silvafolio-2/static/media/michael.41d5a292.png"
   },
   {
     "revision": "cc1868a069afac6d367b005b8e3889be",
