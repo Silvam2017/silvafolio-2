@@ -12,10 +12,10 @@ const WebList=  ({ category }) => {
             link: 'https://jcsryan.github.io/movie-ranker/'
         },
         {
-            name: 'StackDeck',
+            name: 'StackStudy',
             category: 'site',
-            description: 'MERN-based flash card app that allows users to create decks of flash cards and save them to the web or as a PWA.',
-            link: 'https://github.com/jcsryan/StackStudy'
+            description: 'WORK-IN-PROGESS: MERN-based flash card app that allows users to create decks of flash cards and save them to the web or as a PWA.',
+            link: 'https://stackstudy.herokuapp.com/#signup'
         },
         {
             name: 'Run Buddy',
@@ -37,17 +37,14 @@ const WebList=  ({ category }) => {
             href={image.link}
             key={image.name}
             >
-            <p>
-                {image.name}
-            </p>
+            <p>{image.name}</p>
             <img
             src={require(`../../assets/small/${category}/${i}.png`)}
             alt={image.name}
             className="img-thumbnail mx-1"
-          />
-          <p>{image.description}
-              </p>
-              </a>
+            />
+            <p>{image.description}</p>
+            </a>
           ))}
         </div>
       </div>

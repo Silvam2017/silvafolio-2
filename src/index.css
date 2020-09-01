@@ -101,10 +101,12 @@ a:hover {
 
 header {
   background-color: #005272;
+  padding: 0px;
 }
 
 header a {
   color: var(--light);
+  position: relative;
 }
 
 .portrait {
@@ -168,7 +170,7 @@ li {
 }
 
 nav a{
-  padding: 10px;
+  padding: 15px;
 }
 
 nav a:hover {
