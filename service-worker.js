@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/silvafolio-2/precache-manifest.e1bf5a78b7980e8a5efba897b7d8f8f4.js"
+  "/silvafolio-2/precache-manifest.b3ce38b44e77a09c32715a29aef5d858.js"
 );
 
 self.addEventListener('message', (event) => {

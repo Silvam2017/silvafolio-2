@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ebb0ece104ea9626aa45e6369e78350",
+    "revision": "419338ec7632e07431946995abb4d1f1",
     "url": "/silvafolio-2/index.html"
   },
   {
-    "revision": "353928b7e7470fdfb1d9",
+    "revision": "42174a7fc60ae3e5d712",
     "url": "/silvafolio-2/static/css/main.29edfeec.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/silvafolio-2/static/js/2.dee667ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "353928b7e7470fdfb1d9",
-    "url": "/silvafolio-2/static/js/main.3784070e.chunk.js"
+    "revision": "42174a7fc60ae3e5d712",
+    "url": "/silvafolio-2/static/js/main.4121d179.chunk.js"
   },
   {
     "revision": "b4726d16b83e18390aec",
