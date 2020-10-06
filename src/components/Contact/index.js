@@ -12,6 +12,7 @@ return (
         <h4><a href="mailto:msilva@aggienetwork.com">msilva@aggienetwork.com</a></h4>
         <h4><a href="https://github.com/Silvam2017" target="_blank" rel="noopener noreferrer" className="white-text">GitHub</a></h4>
         <h4><a href="https://www.linkedin.com/in/michael-silva-2017/" target="_blank" rel="noopener noreferrer" className="white-text">LinkedIn</a></h4>
+        <h4><a href="https://github.com/Silvam2017/silvafolio-2/blob/master/src/assets/Michael-Silva-Resume.pdf" target="_blank" rel="noopener noreferrer" className="white-text">Resume</a></h4>
     </footer>
   </section>
     )
