@@ -6,7 +6,9 @@ function Gallery({ currentCategory }) {
     return (
         <section id='gallery'>
         <h2 className="header-text">Gallery</h2>
-        <WebList category={currentCategory.name} />
+            <div className='flex-container'>
+                <WebList className="flex-item" category={currentCategory.name} />
+            </div>
         </section>
     );
 }

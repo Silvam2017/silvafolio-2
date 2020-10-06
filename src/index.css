@@ -188,11 +188,21 @@ textarea {
 	padding: 5px;
 }
 
-.container {
+.flex-container {
   width: 85%;
-  max-width: 1200px;
+  max-width: 600px;
   margin-left: auto;
   margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: space-around;
+  justify-content: space-around;
+}
+
+.flex-item {
+  margin: auto;
 }
 
 .flex-row {
@@ -335,4 +345,5 @@ a {
 
 .header-text {
   color: var(--secondary);
+  overflow-wrap: break-word;
 }
